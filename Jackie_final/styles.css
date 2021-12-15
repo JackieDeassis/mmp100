@@ -1,0 +1,18 @@
+body{padding: 5em;
+    background-color:#a7bcb9}
+
+h1,h2,h3,h4{text-align: center;}
+h1,h2,h3,h4{font-family: 'Spartan', sans-serif;}
+h1,h2{color:#24527a;}   
+h3,h4{color:#8B4513;font-size:0.9em;} 
+
+p{width:750px;
+font-family: 'Raleway', sans-serif;
+color:#3f3b3b;}
+    
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
